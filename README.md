@@ -1,2 +1,3 @@
 # Project-Foundations-for-Data-Science-FoodHub-Data-Analysis
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience.
+Through rigorous data exploration and analysis, we will identify trends in customer preferences, popular restaurants, and peak ordering periods. This will enable us to tailor promotional strategies and operational workflows to meet customer demands effectively. Additionally, sentiment analysis of customer feedback will provide invaluable insights into areas of improvement and help prioritize enhancements to the platform.
